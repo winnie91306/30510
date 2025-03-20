@@ -1,0 +1,8 @@
+body{background-color:#ADEFFF;}
+h1{color:#DFFFFD}
+h2{color:#F0FFF0}
+li{color:#002366}
+table,tr,td{
+	border:1px solid gray;
+	border-collapse: collapse;
+}
